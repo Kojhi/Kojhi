@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Kojhi
-- 👀 I’m interested in: Database Development and Administration 
+- 👀 I’m interested in: 
+-     + Database Development and Administration 
+-     + Development with Java
 - 🌱 I’m currently learning Springboot with Thymeleaf 
-- 💞️ I’m looking to collaborate on a database development project to learn more about it 
+- 💞️ I’m looking to collaborate on a Springboot project to learn more about it 
 - 📫 How to reach me: liko.mwanza@gmail.com 
 
 <!---
