@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kojhi
-- 👀 I’m interested in: Java, Databases
-- 🌱 I’m currently learning Springboot with Thymeleaf 
-- 💞️ I’m looking to collaborate on a Springboot or java project to learn more about it 
+- 👀 I’m interested in: Databases
+- 🌱 I’m currently learning Azure Data Fundamentals
+- 💞️ I’m looking to collaborate on a Database related project to learn more about it 
 - 📫 How to reach me: liko.mwanza@gmail.com 
 
 <!---
