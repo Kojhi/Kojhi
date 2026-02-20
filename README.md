@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kojhi
 - 👀 I’m interested in: Databases
-- 🌱 I’m currently learning Azure Data Fundamentals
+<!-- - 🌱 I’m currently learning Azure Data Fundamentals -->
 - 💞️ I’m looking to collaborate on a Database related project to learn more about it 
 - 📫 How to reach me: liko.mwanza@gmail.com 
 
